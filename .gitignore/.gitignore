@@ -18,6 +18,8 @@ release.properties
 coverage.ec
 
 # IntelliJ
+.idea/
+/.idea
 .idea
 *.iml
 *.iws
