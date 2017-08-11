@@ -25,7 +25,7 @@ public enum  ENUM_SOURCE_MARKET_CODE {
     /**
      * 应用宝
      */
-    YINGYONGBAO("yingyongbao"),
+        YINGYONGBAO("yingyongbao"),
     /**
      * 豌豆荚
      */
